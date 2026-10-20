@@ -1,7 +1,7 @@
 # Python template
 
 # About 
-This is a minimalistic Python template. `common_modules` contains multiple sample lists contaning modules, organised based on area, e.g. `ai.requirements.txt`.
+This is a minimalistic Python template. `common_modules` contains multiple sample lists contaning modules, organised based on area, e.g. `machine_learning.requirements.txt`.
 
 ## Setup
 1. Navigate to the project root directory. 
