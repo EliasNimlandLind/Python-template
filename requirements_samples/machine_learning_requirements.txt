@@ -1,6 +1,11 @@
+# Core
 -e .[dev]
 numpy
 pandas
 scikit-learn
 matplotlib
+
+# Graphical user interface
 streamlit
+
+# Command line interface
