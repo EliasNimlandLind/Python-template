@@ -1,1 +1,4 @@
- -e .[dev]
+-e .[dev]
+numpy
+pandas
+scikit-learn
