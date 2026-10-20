@@ -1,7 +1,7 @@
 # Python template
 
 # About 
-This is a minimalistic Python template.
+This is a minimalistic Python template. `common_modules` contains multiple sample lists contaning modules, organised based on area, e.g. `ai.requirements.txt`.
 
 ## Setup
 1. Navigate to the project root directory. 
@@ -23,11 +23,11 @@ python -m venv .venv
     ```bash
     source .venv/bin/activate
     ```
-3. Install dependencies by adding each one to `requirements.txt` and exeute:
+3. Install dependencies by adding each one used to `requirements.txt` and exeute:
 ```bash
 python -m pip install -r requirements.txt
 ```
-> The project will be installed in editable mode, i.e. changes do not require reinstallation, if `-e .[dev]` is kept in `requirements.txt`.
+> The project will be installed in editable mode, i.e. changes do not require reinstallation, if `-e .[dev]` is kept in `requirements.txt`. Furthermore, a sample can be used by copying the sample file to the project root and removing the pregix.
 4. Update `pyproject.toml` according to the project.
 
 ## Usage
