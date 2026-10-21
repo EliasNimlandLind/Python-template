@@ -8,4 +8,5 @@ matplotlib
 # Graphical user interface
 streamlit
 
-# Command line interface
+# Terminal user interface
+textual
